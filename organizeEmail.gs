@@ -8,7 +8,7 @@
  * - archive inbox threads with a label "ML/*" older thant 2d
  * - remove archived threads with a label "ML/*" older thant 60d and having not "keep" label
  * - send a report of the execution 
- *   "!" suffix in a report line means that the action hasn't been perform (dry run to test behavior)
+ *   "!" prefix in a report line means that the action hasn't been perform (dry run to test behavior)
  *
  * How to use it:
  * **************
